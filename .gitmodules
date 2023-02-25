@@ -2,4 +2,4 @@
 	path = raylib
 	url = https://github.com/raysan5/raylib
 [submodule "src/raylib"]
-	url = git@github.com:pixelpicosean/raylib.zig.git
+	url = git@github.com:pixelpicosean/raylib.zig
